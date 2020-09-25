@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\ander\workspace\Java_Repository\rocp1_revature\java_examples\strings_demo"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\rocp1_revature\java_examples\buffer_builder_demos"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\rocp1_revature\java_examples\read_inputs_scanner_demo"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\rocp1_revature\java_examples\wrappers_demo"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\array_demo1"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\rocp1_revature\java_examples\control_flows_demo"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\rocp1_revature\java_examples\arrays_demo\src\examples"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\array_demo"/>
+		<item value="C:\Users\ander\workspace\Java_Repository\data_types_demo"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

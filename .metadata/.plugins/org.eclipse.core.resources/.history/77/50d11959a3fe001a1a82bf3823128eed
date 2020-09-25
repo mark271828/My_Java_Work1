@@ -1,0 +1,23 @@
+package task1;
+// Goal: Perform same conversion as TitleCaseDemo.java, but on last letter of each word.
+
+public class buffer_builder_task1 {
+
+	public static void main(String[] args) {
+		String s="hello hi how are you doing today";
+		
+		String ar[]=s.split(" ");
+		
+		StringBuilder sb=new StringBuilder();
+		
+		for (int i = length(s); i >= 0; i--) {
+			sb.append(Character.toUpperCase(ar[i].charAt(0))).append(ar[i].substring(1)).append(" ");
+		}
+		
+		System.out.println(sb.toString().trim());
+
+
+
+	}
+
+}

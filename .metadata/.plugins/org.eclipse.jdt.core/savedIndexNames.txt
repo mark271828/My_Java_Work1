@@ -1,0 +1,10 @@
+INDEX VERSION 1.130+C:\Users\ander\workspace\Java_Repository\.metadata\.plugins\org.eclipse.jdt.core
+730314292.index
+3980190870.index
+4200654211.index
+1847821510.index
+1728840033.index
+4102049934.index
+3365158668.index
+734086577.index
+400556250.index
